@@ -51,9 +51,6 @@ An AI-powered email automation system built with Python that can fetch emails, a
 \## 🏗️ Architecture
 
 
-
-```text
-
 Incoming Email
 
 &#x20;     ↓
@@ -138,9 +135,6 @@ Database + Logs + Dashboard
 
 \## 📁 Project Structure
 
-
-
-```text
 
 ai-email-automation/
 
@@ -266,7 +260,7 @@ ai-email-automation/
 
 ```bash
 
-git clone <YOUR\_GITHUB\_REPOSITORY\_URL>
+git clone https://github.com/heyitssuzain/ai-email-automation.git
 
 cd ai-email-automation
 
@@ -337,9 +331,6 @@ GEMINI\_API\_KEY=your\_gemini\_api\_key
 Place your Google OAuth desktop credentials in:
 
 
-
-```text
-
 credentials.json
 
 ```
@@ -348,9 +339,6 @@ credentials.json
 
 The application will generate:
 
-
-
-```text
 
 token.json
 
@@ -410,8 +398,6 @@ Current test suite:
 
 
 
-```text
-
 20 tests passing
 
 ```
@@ -449,9 +435,6 @@ Sensitive credentials are intentionally excluded from version control.
 Ignored files include:
 
 
-
-```text
-
 .env
 
 credentials.json
@@ -478,8 +461,6 @@ The AI analyzes incoming emails and produces structured information:
 
 
 
-```text
-
 Category
 
 Priority
@@ -497,8 +478,6 @@ Requires Reply
 Supported categories:
 
 
-
-```text
 
 Customer Support
 

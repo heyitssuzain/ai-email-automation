@@ -1,0 +1,32 @@
+[
+  {
+    "id": "refund_policy",
+    "title": "Refund Policy",
+    "content": "Customers can request a refund within 7 days of purchase. Refund requests are reviewed before approval. Approved refunds are processed within 5-7 business days."
+  },
+  {
+    "id": "support_hours",
+    "title": "Customer Support Hours",
+    "content": "Customer support is available Monday to Friday from 9:00 AM to 6:00 PM. Support requests received outside these hours are handled on the next business day."
+  },
+  {
+    "id": "invoice_policy",
+    "title": "Invoice Policy",
+    "content": "Customers can request an invoice by providing their order ID and billing information. Invoice-related requests should include the relevant order or transaction details."
+  },
+  {
+    "id": "shipping_policy",
+    "title": "Shipping Policy",
+    "content": "Shipping times depend on the destination and selected shipping method. Customers should provide their order ID when asking about delivery status."
+  },
+  {
+    "id": "complaint_policy",
+    "title": "Complaint Handling",
+    "content": "Customer complaints should be acknowledged professionally. The customer's issue should be understood before promising any resolution. Do not promise refunds, replacements, credits, or other actions unless they are confirmed by policy or an authorized person."
+  },
+  {
+    "id": "job_inquiry",
+    "title": "Job Inquiry Policy",
+    "content": "Job-related emails should include the applicant's name, relevant skills or experience, and resume when applicable. Do not promise an interview, selection, or employment."
+  }
+]
